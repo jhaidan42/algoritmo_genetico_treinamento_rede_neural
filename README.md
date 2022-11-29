@@ -1,0 +1,3 @@
+Este projeto apresenta uma aplicação de algoritmo genético para treinamento de Rede Neural Artificial. O objetivo do trabalho é realizar o treinamento backpropagation de uma Rede Neural Artificial, o qual se trata de um problema de otimização, utilizando um algoritmo genético.<br>
+O arquivo ```AA5.m``` contém o algoritmo genético e deve ser executado para treinamento da rede.<br>
+O [artigo](https://github.com/jhaidan42/algoritmo_genetico_treinamento_rede_neural/files/10108609/Atv_Ass_5_Jhaidan.pdf) produzido apresenta o procedimento realizado, os resultados e as conclusões do estudo.
